@@ -217,6 +217,7 @@ def main():
     # Lưu kết quả ra file JSON
     save_solution_to_json(solution, args.output)
     print(f"Solution saved to {args.output}")
+
 main()
 '''
 Run file
